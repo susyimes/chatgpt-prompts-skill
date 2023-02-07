@@ -13,4 +13,4 @@ If it’s giving you code, make sure to say “Continue in a code box”
 “生成一个基于文本的表格，横跨 5 列，长 5 行。” 将每个带有 [Term] 的句子放在第 1 行，每个关于 [subject] 的句子放在第 2 列，等等。如果您将关键点总结成项目符号列表，然后将数据直观地组织到表格中
 
 ●https://www.gptoverflow.link/  
-●https://github.com/susyimes/awesome-chatgpt-prompts
+●https://github.com/f/awesome-chatgpt-prompts
