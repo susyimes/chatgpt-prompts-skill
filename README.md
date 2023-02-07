@@ -1,5 +1,4 @@
 # chatgpt-prompts-skill
-Prompts Whisperer
 
 Tip: Type "continue" when ChatGPT gets cut off or 'continue from where you stopped’
 
