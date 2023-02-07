@@ -2,6 +2,8 @@
 
 **Tips:**  
 
+chatgpt training data is from 2021 of September  
+
 1.Type "continue" when ChatGPT gets cut off or 'continue from where you stopped’
 Or copy the last output and it will pick up typically  
 1.当 ChatGPT 中断或“从您停止的地方继续”时键入“继续” 
