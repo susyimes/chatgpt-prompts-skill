@@ -16,4 +16,5 @@ Or copy the last output and it will pick up typically
 
 
 ●https://www.gptoverflow.link/  
-●https://github.com/f/awesome-chatgpt-prompts
+●https://github.com/f/awesome-chatgpt-prompts  
+●https://github.com/skydoves/chatgpt-android  
