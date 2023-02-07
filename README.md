@@ -1,10 +1,12 @@
 # chatgpt-prompts-skill
 
-Tip: Type "continue" when ChatGPT gets cut off or 'continue from where you stopped’
+Tip: 
+1.Type "continue" when ChatGPT gets cut off or 'continue from where you stopped’
 Or copy the last output and it will pick up typically  
-If it’s giving you code, make sure to say “Continue in a code box”  
 
-"Generate a text based table 5 columns across and 5 rows long." Put every sentence with [Term] into row 1, every sentence about [subject] into column 2, etc. This is especially useful if you have it summarize key points into a bullet list and then organize the data visually into a table.
+2.If it’s giving you code, make sure to say “Continue in a code box”  
+
+3."Generate a text based table 5 columns across and 5 rows long." Put every sentence with [Term] into row 1, every sentence about [subject] into column 2, etc. This is especially useful if you have it summarize key points into a bullet list and then organize the data visually into a table.
 
 1.当 ChatGPT 中断或“从您停止的地方继续”时键入“继续”  
 
