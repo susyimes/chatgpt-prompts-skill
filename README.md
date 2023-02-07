@@ -1,6 +1,6 @@
 # chatgpt-prompts-skill
 
-Tip:  
+#Tips:  
 
 1.Type "continue" when ChatGPT gets cut off or 'continue from where you stopped’
 Or copy the last output and it will pick up typically  
