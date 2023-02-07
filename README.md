@@ -1,8 +1,8 @@
 # chatgpt-prompts-skill
 
-**Tips:**  
+**Tips:**
 
-chatgpt training data is from 2021 of September  
+***chatgpt training data is from 2021 of September***    
 
 1.Type "continue" when ChatGPT gets cut off or 'continue from where you stopped’
 Or copy the last output and it will pick up typically  
