@@ -5,15 +5,11 @@
 
 ***chatgpt training data is from 2021 of September***    
 
-1.Type "continue" when ChatGPT gets cut off or 'continue from where you stopped’
-Or copy the last output and it will pick up typically  
-1.当 ChatGPT 中断或“从您停止的地方继续”时键入“继续” 
-
-2.If it’s giving you code, make sure to say “Continue in a code box”  
-2.如果它给你代码，一定要说“在代码框中继续”  
-
-3."Generate a text based table 5 columns across and 5 rows long." Put every sentence with [Term] into row 1, every sentence about [subject] into column 2, etc. This is especially useful if you have it summarize key points into a bullet list and then organize the data visually into a table.  
-3.“生成一个基于文本的表格，横跨 5 列，长 5 行。” 将每个带有 [Term] 的句子放在第 1 行，每个关于 [subject] 的句子放在第 2 列，等等。如果您将关键点总结成项目符号列表，然后将数据直观地组织到表格中
+1.ChatGPT数据来自2021年9月，问的问题不能具有实时性，否则效果很差
+2.当 ChatGPT 回复中断时输入 键入“继续” 或者“从您停止的地方继续”就能或者中断后续答案
+3.如果它给你代码或者表格，一定要说“在代码框中继续”或 "在EXCEL表中继续"
+4.交流技巧先让ChatGTP进入对应领域角色，然后再提问问题获得回复会比较精准
+5.具有上下文记忆功能，不同会话最好对应不同角色，对AI提出的回复要求它也会记忆。并且你可以纠正它的一些错误，再延伸出的一些问题就会回答的更加精准
  
 
 
@@ -22,3 +18,10 @@ Or copy the last output and it will pick up typically
 ●https://github.com/f/awesome-chatgpt-prompts  
 ●https://github.com/skydoves/chatgpt-android  
 ●https://huggingface.co/spaces/merve/ChatGPT-prompt-generator
+
+**BOT**
+●https://github.com/lss233/chatgpt-mirai-qq-bot
+●https://github.com/fuergaosi233/wechat-chatgpt
+●https://github.com/AutumnWhj/ChatGPT-wechat-bot
+●https://github.com/wong2/chatgpt-google-extension
+
