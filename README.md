@@ -19,7 +19,7 @@
 ●https://github.com/skydoves/chatgpt-android    
 ●https://huggingface.co/spaces/merve/ChatGPT-prompt-generator  
 
-**BOT**
+**BOT**  
 ●https://github.com/lss233/chatgpt-mirai-qq-bot  
 ●https://github.com/fuergaosi233/wechat-chatgpt  
 ●https://github.com/AutumnWhj/ChatGPT-wechat-bot  
