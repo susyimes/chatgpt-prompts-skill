@@ -23,6 +23,7 @@
 ●https://github.com/f/awesome-chatgpt-prompts    
 ●https://github.com/skydoves/chatgpt-android    
 ●https://huggingface.co/spaces/merve/ChatGPT-prompt-generator  
+●https://gpt3demo.com/  
 
 **BOT**  
 ●https://github.com/lss233/chatgpt-mirai-qq-bot  
