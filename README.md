@@ -13,11 +13,11 @@
 
 
 **OpenAI API:**  
-1."\n\nQ: "为上下文连接
+
+
+●https://chatgpt-plus.github.io/
 
  
-
-
 
 ●https://www.gptoverflow.link/    
 ●https://github.com/f/awesome-chatgpt-prompts    
